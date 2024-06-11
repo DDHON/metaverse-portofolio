@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable quotes */
 // eslint-disable-next-line quotes
 
 "use client";
